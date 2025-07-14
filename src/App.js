@@ -10,9 +10,9 @@ function App() {
             <div className="grid">
                 {legends.map((driver) => (
                     <div className="card" key={driver.name}>
-                        <img src={driver.image} alt={driver.name} />
                         <h2>{driver.name}</h2>
                         <p>Broj titula: {driver.titles}</p>
+                        <h4>Broj pobeda: {driver.wins}</h4>
                     </div>
                 ))}
             </div>
