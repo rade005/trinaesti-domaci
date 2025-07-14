@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Michael Schumacher",
+    "titles": 7,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Michael_Schumacher_Bahrain_2012.jpg/220px-Michael_Schumacher_Bahrain_2012.jpg"
+  },
+  {
+    "name": "Lewis Hamilton",
+    "titles": 7,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lewis_Hamilton_2022.jpg/220px-Lewis_Hamilton_2022.jpg"
+  },
+  {
+    "name": "Juan Manuel Fangio",
+    "titles": 5,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Juan_Manuel_Fangio_1952.jpg/220px-Juan_Manuel_Fangio_1952.jpg"
+  },
+  {
+    "name": "Sebastian Vettel",
+    "titles": 4,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sebastian_Vettel_2015_Malaysia_podium_1.jpg/220px-Sebastian_Vettel_2015_Malaysia_podium_1.jpg"
+  },
+  {
+    "name": "Ayrton Senna",
+    "titles": 3,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ayrton_Senna_8.jpg/220px-Ayrton_Senna_8.jpg"
+  }
+]
